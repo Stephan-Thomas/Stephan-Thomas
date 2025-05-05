@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Stephan-Thomas
-- 👀 I’m interested in anything programming
-- 🌱 I’m currently learning web-development
+- 👀 I’m a pull-stack developer i.e i pull stuff off people's code and add it to mine
 - 📫 How to reach me 09134258020
 
 <!---
