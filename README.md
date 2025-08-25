@@ -22,10 +22,11 @@ This is my GitHub profile. You’re here because:
 - Other: Git (aka commit archaeology), Docker (pain in containers), Linux (because Windows cried too much)
 
 🔥 Fun Fact
-I don’t chase jobs — I build things that make jobs chase me.
+- I don’t chase jobs — I build things that make jobs chase me.
 
 
-📫 How to reach me: email me, but if you start with ‘Dear Sir/Madam’, I’m deleting it
+📫 How to reach me 
+- email me, but if you start with ‘Dear Sir/Madam’, I’m deleting it
 
 <!---
 Stephan-Thomas/Stephan-Thomas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
